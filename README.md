@@ -5,8 +5,10 @@
 ### I am...
 - A Earth Sciences Undergraduate Student.
 - A Math Undergraduate Student.
-- 🌱 currently learning JavaScript.
+- 🌱 currently learning JavaScript, React, Node.js, Typescript.
 - Working on some projects on Web Development and Data Science.
+- Interest on Machine Learning, Applied Mathematics and Data Science.
 - Looking for opportunities.
+- I love learn and teach.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mata13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
