@@ -4,7 +4,6 @@
 
 ### I am...
 - A Earth Sciences Undergraduate Student at the Faculty of Science, UNAM.
-- A Math Undergraduate Student at the Faculty of Science, UNAM.
 - 🌱 currently learning JavaScript, React, Node.js, Typescript.
 - Working on some projects on Web Development and Data Science.
 - Interest on Machine Learning, Applied Mathematics and Data Science.
