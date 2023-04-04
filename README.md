@@ -3,7 +3,7 @@
 ![me](https://user-images.githubusercontent.com/36939966/89741268-6cc2c300-da55-11ea-9b0f-04d2100eaa8f.jpg)
 
 ### I am...
-- A Earth Sciences Undergraduate Student at the Faculty of Science, UNAM.
+- A Earth Sciences Undergraduate Student at the School of Science at the National Autonomous University of Mexico (UNAM).
 - 🌱 currently learning JavaScript, React, Node.js, Typescript.
 - Working on some projects on Web Development and Data Science.
 - Interest on Machine Learning, Applied Mathematics and Data Science.
