@@ -4,9 +4,9 @@
 
 ### I am...
 - A Earth Sciences Undergraduate Student at the School of Science at the National Autonomous University of Mexico (UNAM).
-- 🌱 currently learning JavaScript, React, Node.js, Typescript.
+- 🌱 currently learning C#.
 - Working on some projects on Web Development and Data Science.
-- Interest on Machine Learning, Applied Mathematics and Data Science.
+- Interest on Machine Learning and Applied Mathematics.
 - Looking for opportunities.
 - I love learn and teach.
 
