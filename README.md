@@ -8,6 +8,6 @@
 - Working on some projects on Web Development and Data Science.
 - Interest on Machine Learning and Applied Mathematics.
 - Looking for opportunities.
-- I love learn and teach.
+- I love Calculus of Variations, Mathematical Analysis, Manifolds, and Partial Differential Equations.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mata13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
