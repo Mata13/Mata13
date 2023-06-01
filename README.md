@@ -8,6 +8,6 @@
 - working on some personal projects on Web Development.
 - looking for opportunities.
 - interested on Machine Learning and Data Science.
-- strongly interested in Calculus of variations, Mathematical Analysis, Topology, Partial Differential Equations, and Quantum Mechanics.
+- strongly interested in Calculus of Variations, Mathematical Analysis, Topology, Partial Differential Equations, and Quantum Mechanics.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mata13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
