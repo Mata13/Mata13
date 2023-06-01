@@ -3,7 +3,7 @@
 ![me](https://user-images.githubusercontent.com/36939966/89741268-6cc2c300-da55-11ea-9b0f-04d2100eaa8f.jpg)
 
 ### I am...
-- a Earth Sciences Undergraduate Student at the School of Science at the National Autonomous University of Mexico (UNAM).
+- a Earth Sciences Undergraduate Student at the School of Sciences at the National Autonomous University of Mexico ([UNAM](https://www.unam.mx)).
 - 🌱 currently learning C#.
 - working on some personal projects on Web Development.
 - looking for opportunities.
