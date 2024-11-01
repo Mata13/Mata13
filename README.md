@@ -7,7 +7,7 @@
 
 ## About me
 -  BSc in Earth Sciences (Space Science) at the School of Sciences at the National Autonomous University of Mexico ([UNAM](https://www.unam.mx)) :new_moon_with_face: :milky_way:
--  Mathematics undergraduate student at the School of Sciences at the National Autonomous University of Mexico ([UNAM](https://www.unam.mx)) :wavy_dash: :cyclone: :book:
+-  Mathematics undergraduate student at the School of Sciences at the National Autonomous University of Mexico ([UNAM](https://www.unam.mx)) :wavy_dash: :cyclone:
 - :seedling: I’m currently learning Python, C# and MySQL.
 - :telescope: Working on some personal projects on Web Development.
 - :telescope: Seeking opportunities for personal and professional growth.
