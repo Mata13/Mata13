@@ -1,7 +1,7 @@
 ### Hi there 👋 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :cyclone: :space_invader:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://user-images.githubusercontent.com/36939966/89741268-6cc2c300-da55-11ea-9b0f-04d2100eaa8f.jpg" alt="Mi imagen" style="width: 35vh;">
+  <img src="https://user-images.githubusercontent.com/36939966/89741268-6cc2c300-da55-11ea-9b0f-04d2100eaa8f.jpg" alt="Mi imagen" style="width: 30vh;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHMxYTl0NHJjczdyeXJqM3JrZGk0b2xqMWlldnl6bXl1cTBwM29ldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYEHE0ZtyPXQj04/giphy.gif" alt="Mi GIF" style="width: 30vh;">
 </div>
 
