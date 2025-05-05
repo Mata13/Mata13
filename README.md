@@ -15,7 +15,7 @@
 - :telescope: Working on some personal projects on Data Science.
 - :telescope: Seeking opportunities for personal and professional growth.
 - :computer: Interested in Machine Learning and Data Science.
-- :notebook: Strongly interested in Calculus of Variations, Graph Theory, Dynamical Systems, Numerical Partial Differential Equations, and Quantum Computing.
+- :notebook: Strongly interested in Probability, Statistics, Calculus of Variations, Graph Theory, Dynamical Systems, Numerical Partial Differential Equations, and Quantum Computing.
 
 ## ⚙️ &nbsp;GitHub Analytics
 
