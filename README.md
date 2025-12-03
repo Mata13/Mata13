@@ -1,48 +1,134 @@
-<!--horizontal divider(gradiant)-->
+<!-- Banner / Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Hi there 👋 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :cyclone: :space_invader:
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://user-images.githubusercontent.com/36939966/89741268-6cc2c300-da55-11ea-9b0f-04d2100eaa8f.jpg" alt="Mi imagen" style="width: 30vh;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHMxYTl0NHJjczdyeXJqM3JrZGk0b2xqMWlldnl6bXl1cTBwM29ldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYEHE0ZtyPXQj04/giphy.gif" alt="Mi GIF" style="width: 30vh;">
-</div>
-
-## About me
--  B.Sc. Earth Sciences (Space Science) at the School of Sciences at the National Autonomous University of Mexico ([UNAM](https://www.unam.mx)) :new_moon_with_face: :milky_way:
--  Mathematics undergraduate student at the School of Sciences at the National Autonomous University of Mexico ([UNAM](https://www.unam.mx)) :wavy_dash: :cyclone:
-- :seedling: I’m currently learning Python and PostgreSQL.
-- :telescope: Working on some personal projects on Data Science.
-- :telescope: Seeking opportunities for personal and professional growth.
-- :computer: Interested in Machine Learning and Data Science.
-- :notebook: Strongly interested in Probability, Statistics, Functional Analysis, Graph Theory, Quantum Computing, Topological Deep Learning, Riemannian Geometry and Geometric Statistics.
-
-## ⚙️ &nbsp;GitHub Analytics
+<h1 align="center">From Earth's core to the cosmos' edge, I speak in code and verse <br /> 🌍🪐🖖 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :cyclone: :space_invader: </h1>
 
 <p align="center">
-<a href="https://github.com/Mata13">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mata13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mata13&layout=compact&langs_count=8&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"/>
-</a>
+  <b>I'm Marc – Space Scientist, Data Analyst, and a storyteller of the cosmos.</b><br/>
+
+  > _I grew up between mountains; now I work between cosmic rays and SQL queries, turning complexity into tools that actually help people._
 </p>
 
-## :space_invader: Technologies that I know
+<!-- Banner / Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</div>
-<!--tech stack icons-->
+## 🌌 Who am I?
+
+- 🎓 <b>Space Scientist</b> with a B.Sc. in <b>Earth Sciences and Mathematics with a focus on Space Sciences</b> – School of Sciences, <a href="https://www.unam.mx">UNAM</a> (Mexico).
+- 🧮 Advanced self‑studying areas include: Measure Theory, Functional Analysis, PDEs, Riemannian Geometry, Geometric Statistics, Graph Theory, Topology, Manifolds, Topological Deep Learning, etc.
+- 🛰️ Academic projects on <b>Cosmic Rays, Space Weather, and Geomagnetic Storms</b>, including numerical simulations with <b>CORSIKA</b> and analysis in <b>Python</b>.
+- 📊 Currently working as a <b>Data Analyst</b>, building data models, reports, and dashboards to support business decisions.
+
+> _I like to think of my path as a long ascent: slow at times, steep often, but always one more step forward._
+
+---
+
+## 🧠 What I work with
+
+### 🔭 Data & Science
+
+- 🐍 <b>Python</b>: NumPy, Pandas, SciPy, Matplotlib/Seaborn, Streamlit
+- 🗄️ <b>Databases</b>: SQL, PostgreSQL, DBeaver
+- 📊 <b>BI & Analytics</b>: Power BI, Excel & KPIs
+- 🧪 <b>Statistics & ML</b>: Inferential statistics, hypothesis testing, regression, basic ML workflows
+- 🌌 <b>Scientific Computing</b>: CORSIKA simulations for atmospheric particle showers, data analysis pipelines in Python
+
+### 📐 Mathematics & Theoretical Interests
+
+- Riemannian Geometry & Manifolds
+- Measure Theory & Probability
+- Functional Analysis & Quantum Computing
+- Geometric Statistics & Topological Deep Learning
+- Graph Theory & Graph Neural Networks (GNNs)
+
+> _“The mathematician plays a game in which he himself invents the rules while the physicist plays a game in which the rules are provided by nature, but as time goes on it becomes increasingly evident that the rules which the mathematician finds interesting are the same as those which nature has chosen.” – Paul Dirac_
+
+---
+
+## 🚀 Selected highlights
+
+- 🛰️ <b>Cosmic Ray Thesis</b> – Numerical simulations of cosmic rays interacting with the atmosphere using CORSIKA; analysis of secondary particle distributions with Python.
+- ⚡ <b>Space Weather & Geomagnetic Storms</b> – Data analysis projects linking space‑weather events with geomagnetic indices and Earth impacts.
+- 🧠 <b>Geometric Intelligence Workshop 2025 (UNAM × UC Santa Barbara)</b> – Worked on:
+  - Topological Deep Learning & Graph Neural Networks
+  - Geometric analysis on Riemannian manifolds
+  - Interdisciplinary project on <b>brain connectomes for ADHD diagnosis</b>
+- 📈 <b>BI & Data Analytics</b> – Dashboards and tools for:
+  - Seismic activity analysis and historical earthquake distribution in Mexico
+  - Exoplanet data exploration
+  - Operational analytics with Streamlit apps + Power BI reports
+
+> _Every project is an excuse to ask one more question and build one more tool._
+
+---
+
+## 🌐 Portfolio
+
+> Here you will soon find my Streamlit portfolio with live apps and data stories.
+
+- 🌍 <b>Streamlit Portfolio:</b> https://marc121mata-portfolio.streamlit.app
+- 🛰️ Projects include: earthquake analytics, exoplanet explorer, space‑weather dashboards, and more.
+
+---
+
+## ⚙️ GitHub Analytics
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,postgres,anaconda,linux,arch,md,vscode,pr&perline=14" />
+  <a href="https://github.com/Mata13">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mata13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mata13&layout=compact&langs_count=8&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"/>
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me🤝
+---
 
-<!--icons and links-->
+## 💻 Tech stack
+
 <p align="center">
-<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/marcos-mata-4986a2349"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-<a style="margin-left: 10px;" target="_blank" href="https://github.com/Mata13"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,postgres,linux,git,github,html,css,js,anaconda,vscode,md,pr&perline=12" />
+  </a>
 </p>
 
-<!--horizontal divider(gradiant)-->
+---
+
+## 🧭 How I like to work
+
+- 🧩 <b>Multidisciplinary thinking</b> – I enjoy combining physics, math, earth sciences, and data to see patterns others might miss.
+- 🛠️ <b>Tools, not just theory</b> – I love turning abstract concepts into practical code, dashboards, or decision tools.
+- 📚 <b>Self‑learning as a habit</b> – Most of my skills in Python, SQL, BI, and advanced math come from late‑night self‑study, courses, and lots of trial and error.
+- 🌱 <b>Science outreach</b> – I create content about Planetary Science, Astrophysics, and Geosciences on Instagram (@space.marc_stjarnstoft).
+- 🐕 <b>Resilience</b> – I didn’t take a straight path: I paused studies to work, then returned, and kept pushing for myself, my family, and my dogs.
+
+> _I like code that tells the truth about the data and words that tell the truth about the code._
+
+---
+
+## 🌍 Languages
+
+- English – Growing fast (technical and conversational)
+- Russian – Self‑learning
+- Swedish – Self‑learning
+- Uzbek – Self‑learning
+
+> _Learning languages is my way of extending the coordinate system of my mind._
+
+---
+
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcos-mata-4986a2349" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/0000/linkedin--v2.png"/>
+  </a>
+  <a href="https://github.com/Mata13" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/0000/github--v1.png"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>I’m open to roles in Data / BI / Analytics, scientific computing, and research‑oriented projects.</b><br/>
+  If you think my mix of <i>space science + math + data + resilience</i> can add value to your team or project, feel free to reach out.
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
