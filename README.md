@@ -115,6 +115,19 @@
 
 ---
 
+## 🚵‍♂️ Outside the terminal
+
+When I’m not staring at data or equations, I’m usually:
+
+- 🚲 <b>Bikepacking</b> – Long rides with a small pack, chasing quiet roads, stars, and altitude gains.
+- ⛰️ <b>Climbing mountains</b> – I grew up in the mountains, and I still look for summits whenever life gets noisy.
+- 🎒 <b>Backpacking & slow travel</b> – Exploring places by foot, bus, and local food, moving light and staying curious.
+- 🎧 <b>Rap head</b> – I love rap as storytelling: rhythm, wordplay, and honesty. The way a good verse hits is not that different from a clean proof or an elegant model.
+
+> _The same mindset that gets me up a steep trail is the one that gets me through a hard bug or a dense paper: one step, one line, one more try._
+
+---
+
 ## 🤝 Connect with me
 
 <p align="center">
