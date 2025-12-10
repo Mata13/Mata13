@@ -144,4 +144,8 @@ When I’m not staring at data or equations, I’m usually:
   If you think my mix of <i>space science + math + data + resilience</i> can add value to your team or project, feel free to reach out.
 </p>
 
+<p align="center">
+  <img src="space.png" width="60%">
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
