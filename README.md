@@ -126,6 +126,11 @@ When I’m not staring at data or equations, I’m usually:
 
 > _The same mindset that gets me up a steep trail is the one that gets me through a hard bug or a dense paper: one step, one line, one more try._
 
+> _I feel the fear, ‘cause life’s never sweet,  
+I need money to survive, keep food on my seat.  
+My hometown is distant, but I carry the flame,  
+A skugga surrounds me, dröm calls your name._
+
 ---
 
 ## 🤝 Connect with me
