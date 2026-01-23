@@ -4,7 +4,7 @@
 <h1 align="center">From Earth's core to the cosmos' edge, I speak in code and verse <br /> 🌍🪐🖖 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :cyclone: :space_invader: </h1>
 
 <p align="center">
-  <b>I'm Marc – Space Scientist, Data Analyst, and a storyteller of the cosmos.</b><br/>
+  <b>I'm Marc – Space Scientist, BI Analyst, and a storyteller of the cosmos.</b><br/>
 
   > _I grew up between mountains; now I work between cosmic rays and SQL queries, turning complexity into tools that actually help people._
 </p>
