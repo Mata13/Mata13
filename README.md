@@ -14,7 +14,7 @@
 
 ## 🌌 Who am I?
 
-- 🎓 <b>Space Scientist</b> with a B.Sc. in <b>Earth Sciences & Mathematics with a focus on Space Sciences</b> – School of Sciences, <a href="https://www.unam.mx">UNAM</a>.
+- 🪐 <b>Space Scientist</b> with a B.Sc. in <b>Earth Sciences & Mathematics with a focus on Space Sciences</b> – School of Sciences, <a href="https://www.unam.mx">UNAM</a>.
 - 🧮 Advanced self‑studying areas include: Measure Theory, Functional Analysis, PDEs, Sobolev Spaces, Riemannian Geometry, Geometric Statistics, Graph Theory, Topology, Manifolds, Topological Deep Learning, etc.
 - 🛰️ Academic projects on <b>Cosmic Rays, Space Weather, and Geomagnetic Storms</b>, including numerical simulations with <b>CORSIKA</b> and analysis in <b>Python</b>.
 - 📊 Currently working as a <b>BI Analyst</b>, building data models, reports, and dashboards to support business decisions.
