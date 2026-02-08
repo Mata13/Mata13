@@ -27,9 +27,9 @@
 
 ### 🔭 Data & Science
 
-- 🐍 <b>Python</b>: NumPy, Pandas, SciPy, Matplotlib/Seaborn, Streamlit
+- 🐍 <b>Python</b>: NumPy, Pandas, Polar, SciPy, Matplotlib/Seaborn, Streamlit, Sci-kit Learn.
 - 🗄️ <b>Databases</b>: SQL, PostgreSQL, DBeaver
-- 📊 <b>BI & Analytics</b>: Power BI, Excel & KPIs
+- 📊 <b>BI & Analytics</b>: Qlik Sense, Power BI, Excel & KPIs
 - 🧪 <b>Statistics & ML</b>: Inferential statistics, hypothesis testing, regression, basic ML workflows
 - 🌌 <b>Scientific Computing</b>: CORSIKA simulations for atmospheric particle showers, data analysis pipelines in Python
 
