@@ -94,7 +94,7 @@
 
 ## 🧭 How I like to work
 
-- 🧩 <b>Multidisciplinary thinking</b> – I enjoy combining physics, math, earth sciences, and data to see patterns others might miss.
+- 🧩 <b>Multidisciplinary thinking</b> – I enjoy combining physics, math, space and earth sciences, and data to see patterns others might miss.
 - 🛠️ <b>Tools, not just theory</b> – I love turning abstract concepts into practical code, dashboards, or decision tools.
 - 📚 <b>Self‑learning as a habit</b> – Most of my skills in Python, SQL, BI, and advanced math come from late‑night self‑study, courses, and lots of trial and error.
 - 🌱 <b>Science outreach</b> – I create content about Planetary Science, Astrophysics, and Geosciences on Instagram (@space.marc_stjarnstoft).
