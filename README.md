@@ -30,7 +30,7 @@
 - 🐍 <b>Python</b>: NumPy, Pandas, Polar, SciPy, Matplotlib/Seaborn, Streamlit.
 - 🗄️ <b>Databases</b>: SQL, PostgreSQL, DBeaver
 - 📊 <b>BI & Analytics</b>: Qlik Sense, Power BI, Excel & KPIs
-- 🧪 <b>Statistics & ML</b>: Inferential statistics, hypothesis testing, regression, Sci-kit Learn, Keras.
+- 🧪 <b>Statistics & ML</b>: Inferential statistics, regression, Sci-kit Learn, Keras.
 - 🌌 <b>Scientific Computing</b>: CORSIKA simulations for atmospheric particle showers, data analysis pipelines in Python
 
 ### 📐 Mathematics & Theoretical Interests
@@ -38,7 +38,7 @@
 - Riemannian Geometry & Manifolds
 - Measure Theory & Probability
 - Functional Analysis & Quantum Computing
-- Geometric Statistics & Topological Deep Learning
+- Geometric Analysis & Topological Deep Learning
 - Graph Theory & Graph Neural Networks (GNNs)
 
 > _“The mathematician plays a game in which he himself invents the rules while the physicist plays a game in which the rules are provided by nature, but as time goes on it becomes increasingly evident that the rules which the mathematician finds interesting are the same as those which nature has chosen.” – Paul Dirac_
