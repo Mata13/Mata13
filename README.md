@@ -75,8 +75,8 @@
 
 <p align="center">
   <a href="https://github.com/Mata13">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mata13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mata13&layout=compact&langs_count=8&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"/>
+    <img height="180em" src="profile/stats.svg"/>
+    <img height="180em" src="profile/top-langs.svg"/>
   </a>
 </p>
 
