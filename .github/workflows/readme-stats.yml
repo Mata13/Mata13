@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Mata13&layout=compact&langs_count=8&theme=algolia&size_weight=0.5&count_weight=0.5
+          options: username=Mata13&layout=compact&langs_count=8&theme=algolia
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
